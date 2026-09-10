@@ -1,0 +1,12 @@
+ body {
+     color: blue;
+     background-color: #f0f2fa;
+     font-family: Arial, sans-serif;
+     margin: 0;
+     padding: 0;
+ }
+
+ table {
+     border: 10px solid black;
+     margin: 10px;
+ }
